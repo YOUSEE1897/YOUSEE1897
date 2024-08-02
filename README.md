@@ -12,7 +12,7 @@
 
 - 🤝 I am seeking **automation testing opportunities where I can contribute to enhancing the quality and reliability of software products.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yuvrajchavale](https://github.com/yuvrajchavale)
+- 👨‍💻 All of my projects are available at [https://github.com/YOUSEE1897](https://github.com/YOUSEE1897)
 
 - 💬 Ask me about **Manual & Automation Testing**
 
